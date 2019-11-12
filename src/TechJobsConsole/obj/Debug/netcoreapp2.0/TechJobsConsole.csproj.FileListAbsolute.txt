@@ -1,0 +1,11 @@
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\job_data.csv
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.deps.json
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.json
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.pdb
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfo.cs
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\User\Dropbox\lc101\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.pdb
